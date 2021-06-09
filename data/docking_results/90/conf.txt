@@ -1,0 +1,15 @@
+receptor = 7bqy_final.pdbqt
+
+center_x = 4.449
+center_y = 4.637
+center_z = 21.355
+
+size_x = 32
+size_y = 36
+size_z = 30
+
+out = results.pdbqt
+log = log.txt
+
+exhaustiveness = 8
+num_modes = 3

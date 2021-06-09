@@ -1,0 +1,269 @@
+smiles,compound_class,compound_subclass,name,molecular_weight,formula
+COC1=CC(=CC(OC)=C1O)C1=[O+]C2=C(C=C1OC1OC(COC(=O)\C=C\C3=CC=C(O)C=C3)C(O)C(O)C1O)C(O)=CC(O)=C2,Flavonoids,Anthocyanins,Malvidin 3-O-(6''-p-coumaroyl-glucoside),639.58,C32H31O14
+CC(=O)OCC1OC(OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC(O)=C(O)C(O)=C2)C(O)C(O)C1O,Flavonoids,Anthocyanins,Delphinidin 3-O-(6''-acetyl-galactoside),507.421,C23H23O13
+[H][C@]1(COC(C)=O)O[C@@]([H])(OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC=C(O)C(O)=C2)[C@]([H])(O)[C@@]([H])(O)[C@@]1([H])O,Flavonoids,Anthocyanins,Cyanidin 3-O-(6''-acetyl-galactoside),491.422,C23H23O12
+OC[C@H]1O[C@@H](OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC(O)=C(O)C=C2)[C@H](O)[C@@H](O)[C@H]1O,Flavonoids,Anthocyanins,Cyanidin 3-O-galactoside,449.385,C21H21O11
+OC[C@H]1O[C@@H](OC2=CC3=C(C=C(O)C=C3O)[O+]=C2C2=CC(O)=C(O)C=C2)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Anthocyanins,Cyanidin 3-O-glucoside,449.385,C21H21O11
+C[C@@H]1O[C@@H](OC[C@H]2O[C@@H](OC3=CC4=C(O)C=C(O)C=C4[O+]=C3C3=CC(O)=C(O)C=C3)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@H](O)[C@H]1O,Flavonoids,Anthocyanins,Cyanidin 3-O-rutinoside,595.526,C27H31O15
+OC[C@H]1O[C@@H](O[C@H]2[C@H](OC3=CC4=C(O)C=C(O)C=C4[O+]=C3C3=CC(O)=C(O)C=C3)O[C@H](CO)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Anthocyanins,Cyanidin 3-O-sophoroside,611.525,C27H31O16
+OC[C@@H]1O[C@H](OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC=C(O)C=C2)[C@@H](O)[C@H](O)[C@H]1O,Flavonoids,Anthocyanins,Pelargonidin 3-O-glucoside,433.385,C21H21O10
+O[C@@H]1[C@@H](COC(=O)CC(O)=O)O[C@@H](OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC(O)=C(O)C=C2)[C@H](O)[C@H]1O,Flavonoids,Anthocyanins,Cyanidin 3-O-(6''-malonyl-glucoside),535.431,C24H23O14
+COC1=C(O)C=CC(=C1)C1=[O+]C2=CC(O)=CC(O)=C2C=C1O,Flavonoids,Anthocyanins,Peonidin,301.271,C16H13O6
+COC1=C(O)C=CC(=C1)C1=[O+]C2=CC(O)=CC(O)=C2C=C1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O,Flavonoids,Anthocyanins,Peonidin 3-O-glucoside,463.411,C22H23O11
+[H][C@@]1(C)O[C@@]([H])(OC[C@@]2([H])O[C@@]([H])(OC3=CC4=C(C=C(O)C=C4O)[O+]=C3C3=CC(OC)=C(O)C=C3)[C@]([H])(O)[C@@]([H])(O)[C@]2([H])O)[C@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Anthocyanins,Peonidin 3-O-rutinoside,609.553,C28H33O15
+C[C@@H]1O[C@@H](OC[C@H]2O[C@@H](OC3=CC4=C(O)C=C(O)C=C4[O+]=C3C3=CC=C(O)C=C3)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@H](O)[C@H]1O,Flavonoids,Anthocyanins,Pelargonidin 3-O-rutinoside,579.527,C27H31O14
+OC1=CC=C(C=C1)C1=[O+]C2=C(C=C1O)C(O)=CC(O)=C2,Flavonoids,Anthocyanins,Pelargonidin,271.245,C15H11O5
+OC1=CC(O)=C2C=C(O)C(=[O+]C2=C1)C1=CC(O)=C(O)C=C1,Flavonoids,Anthocyanins,Cyanidin,287.244,C15H11O6
+COC1=CC(=CC(OC)=C1O)C1=C(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)C=C2C(O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)=CC(O)=CC2=[O+]1,Flavonoids,Anthocyanins,"Malvidin 3,5-O-diglucoside",655.578,C29H35O17
+CC1OC(OCC2OC(OC3=CC4=C(O)C=C(O)C=C4[O+]=C3C3=CC=C(O)C(O)=C3)C(OC3OC(CO)C(O)C(O)C3O)C(O)C2O)C(O)C(O)C1O,Flavonoids,Anthocyanins,Cyanidin 3-O-glucosyl-rutinoside,757.667,C33H41O20
+OC[C@H]1O[C@@H](O[C@H]2[C@H](OC3=CC4=C(O)C=C(O)C=C4[O+]=C3C3=CC=C(O)C=C3)O[C@H](CO)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Anthocyanins,Pelargonidin 3-O-sophoroside,595.526,C27H31O15
+[H][C@@]1(C)O[C@@]([H])(OC[C@@]2([H])O[C@@]([H])(OC3=CC4=C(C=C(O)C=C4O)[O+]=C3C3=CC=C(O)C=C3)[C@]([H])(O[C@]3([H])OC(CO)[C@@]([H])(O)[C@]([H])(O)[C@@]3([H])O)[C@@]([H])(O)[C@]2([H])O)[C@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Anthocyanins,Pelargonidin 3-O-glucosyl-rutinoside,741.667,C33H41O19
+[H][C@]1(COC(=O)CCC(O)=O)O[C@@]([H])(OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC=C(O)C(O)=C2)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O,Flavonoids,Anthocyanins,Cyanidin 3-O-(6''-succinyl-glucoside),549.458,C25H25O14
+[H][C@]1(COC(=O)CCC(O)=O)O[C@@]([H])(OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC=C(O)C=C2)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O,Flavonoids,Anthocyanins,Pelargonidin 3-O-(6''-succinyl-glucoside),533.458,C25H25O13
+OCC1OC(OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC(O)=C(O)C(O)=C2)C(O)C(O)C1O,Flavonoids,Anthocyanins,Delphinidin 3-O-galactoside,465.384,C21H21O12
+OC[C@H]1O[C@@H](OC2=CC3=C(C=C(O)C=C3O)[O+]=C2C2=CC(O)=C(O)C(O)=C2)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Anthocyanins,Delphinidin 3-O-glucoside,465.384,C21H21O12
+O[C@H]1CO[C@H](OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC(O)=C(O)C(O)=C2)[C@H](O)[C@H]1O,Flavonoids,Anthocyanins,Delphinidin 3-O-arabinoside,435.358,C20H19O11
+COC1=C(O)C(O)=CC(=C1)C1=[O+]C2=C(C=C1OC1OC(CO)C(O)C(O)C1O)C(O)=CC(O)=C2,Flavonoids,Anthocyanins,Petunidin 3-O-galactoside,479.411,C22H23O12
+[H][C@@]1(CO)O[C@]([H])(OC2=CC3=C(C=C(O)C=C3O)[O+]=C2C2=CC(O)=C(O)C=C2)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Anthocyanins,Cyanidin 3-O-arabinoside,419.359,C20H19O10
+COC1=C(O)C(O)=CC(=C1)C1=[O+]C2=C(C=C1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)C(O)=CC(O)=C2,Flavonoids,Anthocyanins,Petunidin 3-O-glucoside,479.411,C22H23O12
+[H][C@]1(CO)O[C@@]([H])(OC2=CC3=C(C=C(O)C=C3O)[O+]=C2C2=CC(OC)=C(O)C=C2)[C@]([H])(O)[C@@]([H])(O)[C@@]1([H])O,Flavonoids,Anthocyanins,Peonidin 3-O-galactoside,463.411,C22H23O11
+[H][C@@]1(O)CO[C@]([H])(OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC(O)=C(O)C(OC)=C2)[C@]([H])(O)[C@]1([H])O,Flavonoids,Anthocyanins,Petunidin 3-O-arabinoside,449.385,C21H21O11
+COC1=CC(=CC(OC)=C1O)C1=[O+]C2=CC(O)=CC(O)=C2C=C1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O,Flavonoids,Anthocyanins,Malvidin 3-O-glucoside,493.437,C23H25O12
+COC1=CC(=CC(OC)=C1O)C1=[O+]C2=CC(O)=CC(O)=C2C=C1O[C@H]1OC[C@H](O)[C@H](O)[C@H]1O,Flavonoids,Anthocyanins,Malvidin 3-O-arabinoside,463.411,C22H23O11
+[H][C@]1(COC(C)=O)O[C@@]([H])(OC2=C([O+]=C3C=C(O)C=C(O)C3=C2)C2=CC(O)=C(O)C(O)=C2)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O,Flavonoids,Anthocyanins,Delphinidin 3-O-(6''-acetyl-glucoside),507.421,C23H23O13
+[H][C@]1(COC(C)=O)OC(OC2=C([O+]=C3C=C(O)C=C(O)C3=C2)C2=CC(O)=C(O)C(OC)=C2)[C@]([H])(O)[C@@]([H])(O)[C@@]1([H])O,Flavonoids,Anthocyanins,Petunidin 3-O-(6''-acetyl-galactoside),521.448,C24H25O13
+[H][C@]1(COC(C)=O)OC(OC2=C([O+]=C3C=C(O)C=C(O)C3=C2)C2=CC(OC)=C(O)C=C2)[C@]([H])(O)[C@@]([H])(O)[C@@]1([H])O,Flavonoids,Anthocyanins,Peonidin 3-O-(6''-acetyl-galactoside),505.448,C24H25O12
+[H][C@]1(COC(C)=O)O[C@@]([H])(OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC=C(O)C(O)=C2)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O,Flavonoids,Anthocyanins,Cyanidin 3-O-(6''-acetyl-glucoside),491.422,C23H23O12
+[H][C@]1(COC(C)=O)OC(OC2=C([O+]=C3C=C(O)C=C(O)C3=C2)C2=CC(OC)=C(O)C(OC)=C2)[C@]([H])(O)[C@@]([H])(O)[C@@]1([H])O,Flavonoids,Anthocyanins,Malvidin 3-O-(6''-acetyl-galactoside),535.474,C25H27O13
+[H][C@]1(COC(C)=O)O[C@@]([H])(OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC(OC)=C(O)C(O)=C2)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O,Flavonoids,Anthocyanins,Petunidin 3-O-(6''-acetyl-glucoside),521.448,C24H25O13
+COC1=CC(=CC(OC)=C1O)C1=[O+]C2=C(C=C1OC1OC(COC(C)=O)C(O)C(O)C1O)C(O)=CC(O)=C2,Flavonoids,Anthocyanins,Malvidin 3-O-(6''-acetyl-glucoside),535.474,C25H27O13
+[H][C@]1(COC(C)=O)O[C@@]([H])(OC2=CC3=C(C=C(O)C=C3O)[O+]=C2C2=CC(OC)=C(O)C=C2)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O,Flavonoids,Anthocyanins,Peonidin 3-O-(6''-acetyl-glucoside),505.448,C24H25O12
+[H][C@]1(CO)O[C@]([H])(OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC=C(O)C=C2)[C@@]([H])(O)[C@]1([H])O,Flavonoids,Anthocyanins,Pelargonidin 3-O-arabinoside,403.359,C20H19O9
+C[C@@H]1O[C@@H](OC[C@H]2O[C@@H](OC3=CC4=C(O)C=C(O)C=C4[O+]=C3C3=CC(O)=C(O)C(O)=C3)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@H](O)[C@H]1O,Flavonoids,Anthocyanins,Delphinidin 3-O-rutinoside,611.525,C27H31O16
+[Cl-].OC[C@H]1O[C@@H](OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC(O)=C(O)C=C2)[C@H](O[C@@H]2OC[C@@H](O)[C@H](O)[C@H]2O)[C@@H](O)[C@@H]1O,Flavonoids,Anthocyanins,Cyanidin 3-O-sambubioside,616.952,C26H29ClO15
+O[C@@H]1[C@@H](COC(=O)CC(O)=O)O[C@@H](OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC=C(O)C=C2)[C@H](O)[C@H]1O,Flavonoids,Anthocyanins,Pelargonidin 3-O-(6''-malonyl-glucoside),519.432,C24H23O13
+[H][C@]1(COC(=O)\C=C\C2=CC=C(O)C=C2)OC(OC2=C([O+]=C3C=C(O)C=C(O)C3=C2)C2=CC(OC)=C(O)C=C2)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O,Flavonoids,Anthocyanins,Peonidin 3-O-(6''-p-coumaroyl-glucoside),609.554,C31H29O13
+[H][C@]1(CO)O[C@@]([H])(OC2=CC3=C(C=C(O)C=C3O)[O+]=C2C2=CC(O)=C(O)C=C2)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Anthocyanins,Cyanidin 3-O-xyloside,419.359,C20H19O10
+[Cl-].COC1=CC(=CC(OC)=C1O)C1=[O+]C2=CC(O)=CC(O)=C2C=C1O[C@@H]1O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O,Flavonoids,Anthocyanins,Malvidin 3-O-galactoside,528.89,C23H25ClO12
+[H][C@@]1(O)CO[C@]([H])(OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC(O)=C(O)C(OC)=C2)[C@]([H])(O)[C@]1([H])O,Flavonoids,Anthocyanins,Peonidin 3-O-arabinoside,449.385,C21H21O11
+[H][C@@]1(C)O[C@@]([H])(OC[C@@]2([H])O[C@@]([H])(OC3=CC4=C(C=C(O)C=C4O)[O+]=C3C3=CC(O)=C(O)C=C3)[C@]([H])(O)[C@@]([H])(O)[C@]2([H])O)[C@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Anthocyanins,Petunidin 3-O-rutinoside,595.526,C27H31O15
+[H][C@]1(CO)O[C@@]([H])(OC2=C([O+]=C3C=C(O)C=C(O)C3=C2)C2=CC(O)=C(O)C(O)=C2)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Anthocyanins,Delphinidin 3-O-xyloside,435.358,C20H19O11
+[H][C@]1(COC(=O)\C=C\C2=CC=C(O)C=C2)OC(OC2=C([O+]=C3C=C(O)C=C(O)C3=C2)C2=CC(O)=C(O)C(OC)=C2)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O,Flavonoids,Anthocyanins,Petunidin 3-O-(6''-p-coumaroyl-glucoside),625.554,C31H29O14
+OC[C@H]1O[C@H](OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC=C(O)C=C2)[C@H](O)[C@@H](O)[C@H]1O,Flavonoids,Anthocyanins,Pelargonidin 3-O-galactoside,433.385,C21H21O10
+[H][C@@]1(O)CO[C@@]([H])(O[C@@]2([H])[C@@]([H])(OC3=CC4=C(C=C(O)C=C4O)[O+]=C3C3=CC=C(O)C=C3)O[C@]([H])(CO)[C@@]([H])(O)[C@]2([H])O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Anthocyanins,Pelargonidin 3-O-sambubioside,565.5,C26H29O14
+OCC1OC(OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC(O)=C(O)C(O)=C2)C(OC2OCC(O)C(O)C2O)C(O)C1O,Flavonoids,Anthocyanins,Delphinidin 3-O-sambubioside,597.499,C26H29O16
+CC1OC(OCC2OC(OC3=CC4=C(O)C=C(O)C=C4[O+]=C3C3=CC=C(O)C(O)=C3)C(OC3OCC(O)C(O)C3O)C(O)C2O)C(O)C(O)C1O,Flavonoids,Anthocyanins,Cyanidin 3-O-xylosyl-rutinoside,727.641,C32H39O19
+COC1=CC(=CC(OC)=C1O)C1=[O+]C2=C3C(OC(=CC3=C1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)C(O)=O)=CC(O)=C2,Flavonoids,Anthocyanins,Vitisin A,561.468,C26H25O14
+O[C@@H]1[C@@H](COC(=O)\C=C\C2=CC=C(O)C=C2)O[C@@H](OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC(O)=C(O)C(O)=C2)[C@H](O)[C@H]1O,Flavonoids,Anthocyanins,Delphinidin 3-O-(6''-p-coumaroyl-glucoside),611.527,C30H27O14
+COC1=CC(=CC(OC)=C1O)C1=[O+]C2=C3C(OC(=CC3=C1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)C1=CC=C(O)C=C1)=CC(O)=C2,Flavonoids,Anthocyanins,Pigment A,609.554,C31H29O13
+OC1C(COC(=O)\C=C\C2=CC=C(O)C=C2)OC(OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC=C(O)C(O)=C2)C(O)C1O,Flavonoids,Anthocyanins,Cyanidin 3-O-(6''-p-coumaroyl-glucoside),595.528,C30H27O13
+OCC1OC(OC2=C3C=C(OC4OC(CO)C(O)C(O)C4OC4OCC(O)C(O)C4O)C(=[O+]C3=CC(O)=C2)C2=CC=C(O)C(O)=C2)C(O)C(O)C1O,Flavonoids,Anthocyanins,Cyanidin 3-O-sambubioside 5-O-glucoside,743.64,C32H39O20
+O[C@@H]1[C@@H](COC(=O)\C=C\C2=CC(O)=C(O)C=C2)O[C@@H](OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC(O)=C(O)C=C2)[C@H](O)[C@H]1O,Flavonoids,Anthocyanins,Cyanidin 3-O-(6''-caffeoyl-glucoside),611.527,C30H27O14
+OC[C@H]1O[C@@H](OC2=CC(O)=CC3=[O+]C(=C(O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)C=C23)C2=CC(O)=C(O)C=C2)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Anthocyanins,"Cyanidin 3,5-O-diglucoside",611.525,C27H31O16
+[H][C@]1(CO)O[C@@]([H])(OC2=C3C=C(OC4=CC(O)=CC([O+]=C2C2=CC(OC)=C(O)C(OC)=C2)=C34)C2=CC=C(O)C(O)=C2)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O,Flavonoids,Anthocyanins,Pinotin A,625.554,C31H29O14
+OC[C@H]1O[C@@H](OC2=CC(O)=CC3=[O+]C(=C(O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)C=C23)C2=CC(O)=C(O)C(O)=C2)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Anthocyanins,"Delphinidin 3,5-O-diglucoside",627.525,C27H31O17
+[Cl-].OC[C@H]1O[C@@H](OC2=CC(O)=CC3=[O+]C(=C(O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)C=C23)C2=CC=C(O)C=C2)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Anthocyanins,"Pelargonidin 3,5-O-diglucoside",630.979,C27H31ClO15
+[H][C@]1(COC(=O)\C=C\C2=CC(O)=C(O)C=C2)OC(OC2=CC3=C(C=C(O)C=C3O)[O+]=C2C2=CC(OC)=C(O)C(OC)=C2)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O,Flavonoids,Anthocyanins,Malvidin 3-O-(6''-caffeoyl-glucoside),655.58,C32H31O15
+OC1C(O)C(COC(=O)C(=O)OC(=O)C([O-])=O)OC(OC2=CC3=C(O)C=C(O)C=C3[O+]=C2C2=CC=C(O)C(O)=C2)C1O,Flavonoids,Anthocyanins,Cyanidin 3-O-(6''-dioxalyl-glucoside),592.416,C25H20O17
+OC[C@H]1O[C@@H](OC[C@H]2O[C@@H](OC3=CC4=C(O)C=C(O)C=C4[O+]=C3C3=CC(O)=C(O)C(O)=C3)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Anthocyanins,Delphinidin 3-O-glucosyl-glucoside,627.525,C27H31O17
+[H][C@]1(CO)O[C@@]([H])(O[C@@]2([H])[C@]([H])(O)[C@@]([H])(COC(=O)CC(O)=O)O[C@@]([H])(OC3=CC4=C(O)C=C(O)C=C4[O+]=C3C3=CC=C(O)C(O)=C3)[C@]2([H])O)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O,Flavonoids,Anthocyanins,Cyanidin 3-O-(6''-malonyl-3''-glucosyl-glucoside),697.572,C30H33O19
+[H][C@]1(COC(=O)\C=C\C2=CC(OC)=C(O)C=C2)O[C@@]([H])(OC2=C([O+]=C3C=C(O)C=C(O)C3=C2)C2=CC(O)=C(O)C(O)=C2)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O,Flavonoids,Anthocyanins,Delphinidin 3-O-feruloyl-glucoside,641.553,C31H29O15
+COC1=C(O)C(O)=CC(=C1)C1=[O+]C2=C(C=C1OC1OC(CO)C(O)C(O)C1O)C(OC1OC(CO)C(O)C(O)C1O)=CC(O)=C2,Flavonoids,Anthocyanins,"Petunidin 3,5-O-diglucoside",641.551,C28H33O17
+COC1=C(O)C(O)=CC(=C1)C1=[O+]C2=C(C=CC(O)=C2)C=C1OC1OC(C)C(O)C(O)C1O,Flavonoids,Anthocyanins,Petunidin 3-O-rhamnoside,447.412,C22H23O10
+OC1=CC(O)=C(C=C1)C(=O)\C=C\C1=CC(O)=C(O)C=C1,Flavonoids,Chalcones,Butein,272.253,C15H12O5
+COC1=C(C(=O)\C=C\C2=CC=C(O)C=C2)C(O)=C(CC=C(C)C)C(O)=C1,Flavonoids,Chalcones,Xanthohumol,354.396,C21H22O5
+OC1=CC=C(CCC(=O)C2=C(O)C=C(O)C=C2O)C=C1,Flavonoids,Dihydrochalcones,Phloretin,274.269,C15H14O5
+OCC1OC(OC2=CC(O)=CC(O)=C2C(=O)CCC2=CC=C(O)C=C2)C(O)C(O)C1O,Flavonoids,Dihydrochalcones,Phloridzin,436.409,C21H24O10
+[H][C@]1(CO)O[C@@]([H])(O[C@@]2([H])[C@]([H])(OC3=C(C(=O)CCC4=CC=C(O)C=C4)C(O)=CC(O)=C3)O[C@]([H])(CO)[C@@]([H])(O)[C@]2([H])O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Dihydrochalcones,Phloretin 2'-O-xylosyl-glucoside,568.524,C26H32O14
+[H][C@@]1(O)CO[C@@]([H])(OC[C@@]2([H])O[C@@]([H])(OC3=CC(O)=CC(O)=C3C(=O)CCC3=CC(O)=C(O)C=C3)[C@]([H])(O)[C@@]([H])(O)[C@]2([H])O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Dihydrochalcones,3-Hydroxyphloretin 2'-O-xylosyl-glucoside,584.523,C26H32O15
+[H][C@]1(CO)O[C@@]([H])(OC2=CC(O)=CC(O)=C2C(=O)CCC2=CC(O)=C(O)C=C2)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O,Flavonoids,Dihydrochalcones,3-Hydroxyphloretin 2'-O-glucoside,452.409,C21H24O11
+C[C@@H]1O[C@@H](O[C@@H]2[C@H](OC3=CC(O)=CC(O)=C3C2=O)C2=CC(O)=C(O)C=C2)[C@H](O)[C@H](O)[C@H]1O,Flavonoids,Dihydroflavonols,Dihydroquercetin 3-O-rhamnoside,450.393,C21H22O11
+OC1[C@H](OC2=CC(O)=CC(O)=C2C1=O)C1=CC(O)=C(O)C=C1,Flavonoids,Dihydroflavonols,Dihydroquercetin,304.252,C15H12O7
+CC1OC(OC2C(OC3=CC(O)=CC(O)=C3C2=O)C2=CC(O)=C(O)C(O)=C2)C(O)C(O)C1O,Flavonoids,Dihydroflavonols,Dihydromyricetin 3-O-rhamnoside,466.392,C21H22O12
+O[C@H]1CC2=C(O)C=C(O)C=C2O[C@@H]1C1=CC(O)=C(O)C=C1,Flavonoids,Flavanols,(+)-Catechin,290.268,C15H14O6
+O[C@@H]1CC2=C(O)C=C(O)C=C2O[C@@H]1C1=CC(O)=C(O)C=C1,Flavonoids,Flavanols,(-)-Epicatechin,290.268,C15H14O6
+O[C@H]1CC2=C(O)C=C(O)C=C2O[C@@H]1C1=CC(O)=C(O)C(O)=C1,Flavonoids,Flavanols,(+)-Gallocatechin,306.267,C15H14O7
+O[C@@H]1CC2=C(O)C=C(O)C=C2O[C@@H]1C1=CC(O)=C(O)C(O)=C1,Flavonoids,Flavanols,(-)-Epigallocatechin,306.267,C15H14O7
+OC1=CC(O)=C2C[C@@H](OC(=O)C3=CC(O)=C(O)C(O)=C3)[C@H](OC2=C1)C1=CC=C(O)C(O)=C1,Flavonoids,Flavanols,(-)-Epicatechin 3-O-gallate,442.372,C22H18O10
+OC1=CC(O)=C2C[C@@H](OC(=O)C3=CC(O)=C(O)C(O)=C3)[C@H](OC2=C1)C1=CC(O)=C(O)C(O)=C1,Flavonoids,Flavanols,(-)-Epigallocatechin 3-O-gallate,458.372,C22H18O11
+[H][C@@]1(OC2=CC(O)=CC(O)=C2C[C@H]1O)C1=CC(O)=C(O)C2=C(O)C(=O)C=C(C=C12)[C@H]1OC2=CC(O)=CC(O)=C2C[C@H]1O,Flavonoids,Flavanols,Theaflavin,564.494,C29H24O12
+[H][C@@]1(OC2=CC(O)=CC(O)=C2C[C@H]1OC(=O)C1=CC(O)=C(O)C(O)=C1)C1=CC(O)=C(O)C2=C(O)C(=O)C=C(C=C12)[C@H]1OC2=CC(O)=CC(O)=C2C[C@H]1O,Flavonoids,Flavanols,Theaflavin 3-O-gallate,716.598,C36H28O16
+O[C@@H]1CC2=C(O)C=C(O)C=C2O[C@@H]1C1=CC2=C(C(O)=C(O)C=C2[C@H]2OC3=C(C[C@H]2OC(=O)C2=CC(O)=C(O)C(O)=C2)C(O)=CC(O)=C3)C(=O)C(O)=C1,Flavonoids,Flavanols,Theaflavin 3'-O-gallate,716.598,C36H28O16
+[H][C@@]1(OC2=CC(OC(=O)C3=CC(O)=C(O)C(O)=C3)=CC(O)=C2C[C@H]1O)C1=CC(O)=C(OC(=O)C2=CC(O)=C(O)C(O)=C2)C2=C(O)C(=O)C=C(C=C12)C1OC2=CC(O)=CC(O)=C2C[C@H]1O,Flavonoids,Flavanols,"Theaflavin 3,3'-O-digallate",868.702,C43H32O20
+OC1=CC(O)=C2C[C@H](OC(=O)C3=CC(O)=C(O)C(O)=C3)[C@H](OC2=C1)C1=CC(O)=C(O)C(O)=C1,Flavonoids,Flavanols,(+)-Gallocatechin 3-O-gallate,458.372,C22H18O11
+OC1=CC2=C(CC(OC(=O)C3=CC(O)=C(O)C(O)=C3)C(O2)C2=CC(O)=C(O)C=C2)C(O)=C1,Flavonoids,Flavanols,(+)-Catechin 3-O-gallate,442.372,C22H18O10
+[H][C@]1(O)CC2=C(O)C=C(O)C(=C2O[C@]1([H])C1=CC=C(O)C(O)=C1)[C@@]1([H])C2=C(O)C=C(O)C=C2O[C@]([H])(C2=CC=C(O)C(O)=C2)[C@]1([H])O,Flavonoids,Flavanols,Procyanidin dimer B1,578.52,C30H26O12
+[H][C@]1([C@@H](O)[C@H](OC2=CC(O)=CC(O)=C12)C1=CC(O)=C(O)C=C1)C1=C(O)C=C(O)C2=C1O[C@@H]([C@H](O)C2)C1=CC(O)=C(O)C=C1,Flavonoids,Flavanols,Procyanidin dimer B2,578.52,C30H26O12
+[H][C@@]1([C@H](O)[C@H](OC2=CC(O)=CC(O)=C12)C1=CC(O)=C(O)C=C1)C1=C(O)C=C(O)C2=C1O[C@@H]([C@@H](O)C2)C1=CC(O)=C(O)C=C1,Flavonoids,Flavanols,Procyanidin dimer B3,578.52,C30H26O12
+[H][C@@]1([C@H](O)[C@H](OC2=CC(O)=CC(O)=C12)C1=CC(O)=C(O)C=C1)C1=C(O)C=C(O)C2=C1O[C@@H]([C@H](O)C2)C1=CC(O)=C(O)C=C1,Flavonoids,Flavanols,Procyanidin dimer B4,578.52,C30H26O12
+[H][C@]1([C@H](O)[C@H](OC2=CC(O)=CC(O)=C12)C1=CC(O)=C(O)C=C1)C1=C(O)C2=C(O[C@@H]([C@H](O)C2)C2=CC(O)=C(O)C=C2)C=C1O,Flavonoids,Flavanols,Procyanidin dimer B5,578.52,C30H26O12
+[H][C@@]1([C@H](O)[C@H](OC2=CC(O)=CC(O)=C12)C1=CC(O)=C(O)C=C1)C1=C(O)C2=C(O[C@@H]([C@H](O)C2)C2=CC(O)=C(O)C=C2)C=C1O,Flavonoids,Flavanols,Procyanidin dimer B7,578.52,C30H26O12
+OC1CC2=C(O)C=C(O)C(C3C(O)C(OC4=CC(O)=CC(O)=C34)C3=CC(O)=C(O)C(O)=C3)=C2OC1C1=CC(O)=C(O)C(O)=C1,Flavonoids,Flavanols,Prodelphinidin dimer B3,610.519,C30H26O14
+[H][C@]1([C@@H](O)[C@H](OC2=CC(O)=CC(O)=C12)C1=CC(O)=C(O)C=C1)C1=C2O[C@@H]([C@H](O)[C@@]([H])(C3=C(O)C=C(O)C4=C3O[C@@H]([C@H](O)C4)C3=CC(O)=C(O)C=C3)C2=C(O)C=C1O)C1=CC(O)=C(O)C=C1,Flavonoids,Flavanols,Procyanidin trimer C1,866.772,C45H38O18
+[H][C@]1(O)CC2=C(O[C@]1([H])C1=CC=C(O)C(O)=C1)C(C1C3=C(O[C@]([H])(C4=CC=C(O)C(O)=C4)[C@]1([H])O)C(C1C4=C(O[C@]([H])(C5=CC=C(O)C(O)=C5)[C@]1([H])O)C=C(O)C=C4O)=C(O)C=C3O)=C(O)C=C2O,Flavonoids,Flavanols,Procyanidin trimer EEC,866.772,C45H38O18
+OC1CC2=C(O)C=C(O)C(C3C(O)C(OC4=C(C5C(O)C(OC6=CC(O)=CC(O)=C56)C5=CC(O)=C(O)C=C5)C(O)=CC(O)=C34)C3=CC(O)=C(O)C=C3)=C2OC1C1=CC(O)=C(O)C=C1,Flavonoids,Flavanols,Procyanidin trimer T2,866.772,C45H38O18
+[H][C@]1(O)CC2=C(O[C@]1([H])C1=CC=C(O)C(O)=C1)C(=C(O)C=C2O)[C@]1([H])C2=C(O[C@]([H])(C3=CC=C(O)C(O)=C3)[C@@]1([H])O)C(=C(O)C=C2O)[C@]1([H])C2=C(O[C@]([H])(C3=CC=C(O)C(O)=C3)[C@@]1([H])O)C=C(O)C=C2O,Flavonoids,Flavanols,Procyanidin trimer C2,866.772,C45H38O18
+[H][C@]1(CO)O[C@]([H])(O[C@]2([H])[C@]3([H])C4=C(O[C@]2(OC2=C3C3=C(CC[C@]([H])(O3)C3=CC(O)=C(O)C=C3)C=C2)C2=CC(O)=C(O)C=C2)C=C(O)C=C4O)[C@]([H])(O)[C@@]([H])(O)[C@@]1([H])O,Flavonoids,Flavanols,(-)-Epicatechin-(2a-7)(4a-8)-epicatechin 3-O-galactoside,706.646,C36H34O15
+O[C@@H]1CC2=C(O)C=C(O)C([C@@H]3[C@@H](O)[C@H](OC4=C([C@@H]5[C@@H](O)[C@H](OC6=C([C@@H]7[C@@H](O)[C@H](OC8=CC(O)=CC(O)=C78)C7=CC=C(O)C(O)=C7)C(O)=CC(O)=C56)C5=CC=C(O)C(O)=C5)C(O)=CC(O)=C34)C3=CC=C(O)C(O)=C3)=C2O[C@@H]1C1=CC=C(O)C(O)=C1,Flavonoids,Flavanols,Cinnamtannin A2,1155.02,C60H50O24
+OCC1OC(OC2CC3=C(OC2C2=CC(O)=C(O)C=C2)C=C(O)C=C3O)C(O)C(O)C1O,Flavonoids,Flavanols,(+)-Catechin 3-O-glucose,452.409,C21H24O11
+OC1=CC=C(C=C1)[C@@H]1CC(=O)C2=C(O)C=C(O)C=C2O1,Flavonoids,Flavanones,Naringenin,272.253,C15H12O5
+OC1=CC(O)=C2C(=O)C[C@H](OC2=C1)C1=CC(O)=C(O)C=C1,Flavonoids,Flavanones,Eriodictyol,288.252,C15H12O6
+COC1=C(O)C=C(C=C1)[C@@H]1CC(=O)C2=C(O)C=C(O)C=C2O1,Flavonoids,Flavanones,Hesperetin,302.279,C16H14O6
+C[C@@H]1O[C@@H](OC[C@H]2O[C@@H](OC3=CC(O)=C4C(=O)C[C@H](OC4=C3)C3=CC(O)=C(O)C=C3)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@H](O)[C@H]1O,Flavonoids,Flavanones,Eriocitrin,596.534,C27H32O15
+COC1=C(O)C=C(C=C1)[C@@H]1CC(=O)C2=C(O)C=C(O[C@@H]3O[C@H](CO[C@@H]4O[C@@H](C)[C@H](O)[C@@H](O)[C@H]4O)[C@@H](O)[C@H](O)[C@H]3O)C=C2O1,Flavonoids,Flavanones,Hesperidin,610.561,C28H34O15
+C[C@@H]1O[C@@H](O[C@@H]2[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]2OC2=CC(O)=C3C(=O)C[C@H](OC3=C2)C2=CC=C(O)C=C2)[C@H](O)[C@H](O)[C@H]1O,Flavonoids,Flavanones,Naringin,580.535,C27H32O14
+C[C@@H]1O[C@@H](OC[C@H]2O[C@@H](OC3=CC(O)=C4C(=O)C[C@H](OC4=C3)C3=CC=C(O)C=C3)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@H](O)[C@H]1O,Flavonoids,Flavanones,Narirutin,580.535,C27H32O14
+C[C@@H]1O[C@@H](O[C@@H]2[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]2OC2=CC(O)=C3C(=O)C[C@H](OC3=C2)C2=CC(O)=C(O)C=C2)[C@H](O)[C@H](O)[C@H]1O,Flavonoids,Flavanones,Neoeriocitrin,596.534,C27H32O15
+COC1=C(O)C=C(C=C1)[C@@H]1CC(=O)C2=C(O)C=C(O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O[C@@H]3O[C@@H](C)[C@H](O)[C@@H](O)[C@H]3O)C=C2O1,Flavonoids,Flavanones,Neohesperidin,610.561,C28H34O15
+COC1=CC=C(C=C1)[C@@H]1CC(=O)C2=C(O)C=C(O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O[C@@H]3O[C@@H](C)[C@H](O)[C@@H](O)[C@H]3O)C=C2O1,Flavonoids,Flavanones,Poncirin,594.561,C28H34O14
+COC1=CC=C(C=C1)[C@@H]1CC(=O)C2=C(O)C=C(O[C@@H]3O[C@H](CO[C@@H]4O[C@@H](C)[C@H](O)[C@@H](O)[C@H]4O)[C@@H](O)[C@H](O)[C@H]3O)C=C2O1,Flavonoids,Flavanones,Didymin,594.561,C28H34O14
+CC1OC(OCC2OC(OC3=CC4=C(C(=O)CC(O4)C4=CC=C(OC5OC(CO)C(O)C(O)C5O)C=C4)C(O)=C3)C(O)C(O)C2O)C(O)C(O)C1O,Flavonoids,Flavanones,Narirutin 4'-O-glucoside,742.675,C33H42O19
+C[C@@H]1O[C@@H](O[C@@H]2[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]2OC2=CC(O)=C3C(=O)C[C@H](OC3=C2)C2=CC=C(O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)C=C2)[C@H](O)[C@H](O)[C@H]1O,Flavonoids,Flavanones,Naringin 4'-O-glucoside,434.393,C21H22O10
+C[C@@H]1O[C@@H](O[C@@H]2[C@@H](O)[C@H](O)[C@@H](COC(=O)CC(O)=O)O[C@H]2OC2=CC(O)=C3C(=O)C[C@H](OC3=C2)C2=CC=C(O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)C=C2)[C@H](O)[C@H](O)[C@H]1O,Flavonoids,Flavanones,Naringin 6'-malonate,666.581,C30H34O17
+OC[C@H]1O[C@@H](OC2=CC(O)=C3C(=O)C[C@H](OC3=C2)C2=CC=C(O)C=C2)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Flavanones,Naringenin 7-O-glucoside,434.393,C21H22O10
+OC1=CC(O)=C2C(=O)C[C@H](OC2=C1)C1=CC=CC=C1,Flavonoids,Flavanones,Pinocembrin,256.253,C15H12O4
+CC(C)=CCC1=C2OC(CC(=O)C2=C(O)C=C1O)C1=CC=C(O)C=C1,Flavonoids,Flavanones,8-Prenylnaringenin,340.37,C20H20O5
+CC(C)=CCC1=C(O)C=C2O[C@@H](CC(=O)C2=C1O)C1=CC=C(O)C=C1,Flavonoids,Flavanones,6-Prenylnaringenin,340.37,C20H20O5
+CC(C)=CCC\C(C)=C\CC1=C(O)C2=C(O[C@@H](CC2=O)C2=CC=C(O)C=C2)C=C1O,Flavonoids,Flavanones,6-Geranylnaringenin,408.487,C25H28O5
+COC1=C2C(=O)CC(OC2=C(CC=C(C)C)C(O)=C1)C1=CC=C(O)C=C1,Flavonoids,Flavanones,Isoxanthohumol,354.396,C21H22O5
+OC[C@H]1O[C@H](OC2=CC(O)=C3C(=O)CC(OC3=C2)C2=CC(O)=C(O)C=C2)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Flavanones,Eriodictyol 7-O-glucoside,450.393,C21H22O11
+COC1=CC(O)=C2C(=O)CC(OC2=C1)C1=CC=C(O)C=C1,Flavonoids,Flavanones,Sakuranetin,286.279,C16H14O5
+OC1=CC=C(C=C1)C1=CC(=O)C2=C(O)C=C(O)C=C2O1,Flavonoids,Flavones,Apigenin,270.237,C15H10O5
+OC1=CC(O)=C2C(=O)C=C(OC2=C1)C1=CC(O)=C(O)C=C1,Flavonoids,Flavones,Luteolin,286.236,C15H10O6
+COC1=C(O)C=C(C=C1)C1=CC(=O)C2=C(O)C=C(O[C@@H]3O[C@H](CO[C@@H]4O[C@@H](C)[C@H](O)[C@@H](O)[C@H]4O)[C@@H](O)[C@H](O)[C@H]3O)C=C2O1,Flavonoids,Flavones,Diosmin,608.545,C28H32O15
+C[C@H]1O[C@H](OC[C@H]2O[C@@H](OC3=CC(O)=C4C(=O)C=C(OC4=C3)C3=CC=C(O)C=C3)[C@H](O)[C@@H](O)[C@@H]2O)[C@@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Flavones,Isorhoifolin,578.519,C27H30O14
+COC1=C(O)C=C(C=C1)C1=CC(=O)C2=C(O1)C=C(OC1OC(CO)C(O)C(O)C1OC1OC(C)C(O)C(O)C1O)C=C2O,Flavonoids,Flavones,Neodiosmin,608.545,C28H32O15
+C[C@@H]1O[C@@H](O[C@@H]2[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]2OC2=CC(O)=C3C(=O)C=C(OC3=C2)C2=CC=C(O)C=C2)[C@H](O)[C@H](O)[C@H]1O,Flavonoids,Flavones,Rhoifolin,578.519,C27H30O14
+COC1=C(OC)C=C(C=C1)C1=CC(=O)C2=C(OC)C(OC)=C(OC)C=C2O1,Flavonoids,Flavones,Sinensetin,372.369,C20H20O7
+COC1=C(OC)C=C(C=C1)C1=CC(=O)C2=C(O1)C(OC)=C(OC)C(OC)=C2OC,Flavonoids,Flavones,Nobiletin,402.395,C21H22O8
+COC1=CC=C(C=C1)C1=CC(=O)C2=C(O1)C(OC)=C(OC)C(OC)=C2OC,Flavonoids,Flavones,Tangeretin,372.369,C20H20O7
+[H][C@@]1(OC(=O)[C@@]2([H])O[C@@]([H])(OC3=CC(O)=C4C(=O)C=C(OC4=C3)C3=CC=C(O)C(O)=C3)[C@]([H])(O)[C@@]([H])(O)[C@]2([H])O)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Flavones,Luteolin 7-O-diglucuronide,638.484,C27H26O18
+OC1=CC(O)=C2C(=O)C=C(OC2=C1)C1=CC=CC=C1,Flavonoids,Flavones,Chrysin,254.238,C15H10O4
+C[C@@H]1O[C@@H](OC[C@H]2O[C@@H](OC3=CC(O)=C4C(=O)C=C(OC4=C3)C3=CC(O)=C(O)C=C3)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@H](O)[C@H]1O,Flavonoids,Flavones,Luteolin 7-O-rutinoside,594.518,C27H30O15
+COC1=CC=C(C=C1)C1=CC(=O)C2=C(OC)C(OC)=C(OC)C=C2O1,Flavonoids,Flavones,Tetramethylscutellarein,342.343,C19H18O6
+OC[C@H]1O[C@@H](OC2=CC(O)=C3C(=O)C=C(OC3=C2)C2=CC(O)=C(O)C=C2)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Flavones,Luteolin 7-O-glucoside,448.377,C21H20O11
+[H][C@]1(CO)O[C@@]([H])(OC2=CC(O)=C3C(=O)C=C(OC3=C2)C2=CC=C(O)C=C2)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O,Flavonoids,Flavones,Apigenin 7-O-glucoside,420.41,C21H24O9
+[H][C@]1(O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)C1=C(O)C(=C2OC(=CC(=O)C2=C1O)C1=CC=C(O)C=C1)[C@]1([H])O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O,Flavonoids,Flavones,"Apigenin 6,8-di-C-glucoside",594.518,C27H30O15
+O[C@@H]1[C@@H](O)[C@H](OC2=CC(O)=C3C(=O)C=C(OC3=C2)C2=CC(O)=C(O)C=C2)O[C@@H]([C@H]1O)C(O)=O,Flavonoids,Flavones,Luteolin 7-O-glucuronide,462.36,C21H18O12
+O[C@@H]1[C@@H](O)[C@H](OC2=CC(O)=C3C(=O)C=C(OC3=C2)C2=CC=C(O)C=C2)O[C@@H]([C@H]1O)C(O)=O,Flavonoids,Flavones,Apigenin 7-O-glucuronide,446.361,C21H18O11
+O[C@H]1[C@H](O)[C@@H](COC(=O)CC(O)=O)O[C@@H](OC2=CC(O)=C3C(=O)C=C(OC3=C2)C2=CC(O)=C(O)C=C2)[C@@H]1O,Flavonoids,Flavones,Luteolin 7-O-malonyl-glucoside,534.423,C24H22O14
+[H][C@]1(O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)C1=C(O)C2=C(OC(=CC2=O)C2=CC(O)=C(O)C=C2)C=C1O,Flavonoids,Flavones,Luteolin 6-C-glucoside,448.377,C21H20O11
+[H][C@@]1(O[C@@]2([H])[C@]([H])(OC3=CC(O)=C4C(=O)C=C(OC4=C3)C3=CC=C(O)C(O)=C3)O[C@]([H])(CO)[C@@]([H])(O)[C@]2([H])O)OC[C@](O)(CO)[C@@]1([H])O,Flavonoids,Flavones,Luteolin 7-O-(2-apiosyl-glucoside),580.492,C26H28O15
+[H][C@@]1(O[C@@]2([H])[C@]([H])(OC3=CC(O)=C4C(=O)C=C(OC4=C3)C3=CC=C(O)C(O)=C3)O[C@]([H])(COC(=O)CC(O)=O)[C@@]([H])(O)[C@]2([H])O)OC[C@](O)(CO)[C@@]1([H])O,Flavonoids,Flavones,Luteolin 7-O-(2-apiosyl-6-malonyl)-glucoside,666.538,C29H30O18
+OC[C@H]1O[C@@H](OC2=CC(O)=C3C(=O)C=C(OC3=C2)C2=CC=C(O)C=C2)[C@H](O[C@@H]2OC[C@](O)(CO)[C@@H]2O)[C@@H](O)[C@@H]1O,Flavonoids,Flavones,Apigenin 7-O-apiosyl-glucoside,564.492,C26H28O14
+OC1=CC2=C(C=C1)C(=O)C=C(O2)C1=CC(O)=C(O)C=C1,Flavonoids,Flavones,"7,3',4'-Trihydroxyflavone",270.237,C15H10O5
+OC1=CC=C(C=C1)C1=CC(=O)C2=C(O1)C=C(O)C=C2,Flavonoids,Flavones,"7,4'-Dihydroxyflavone",254.238,C15H10O4
+COC1=C(O)C=CC(=C1)C1=CC(=O)C2=C(O1)C=C(O)C=C2,Flavonoids,Flavones,Geraldone,284.263,C16H12O5
+OC1=C(O)C(O)=C2C(=O)C=C(OC2=C1)C1=CC=CC=C1,Flavonoids,Flavones,Baicalein,270.237,C15H10O5
+[H][C@]1(O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)C1=C(O)C2=C(OC(=CC2=O)C2=CC=C(O)C=C2)C=C1O,Flavonoids,Flavones,Apigenin 6-C-glucoside,432.378,C21H20O10
+COC1=C(O)C2=C(OC(=CC2=O)C2=CC=C(O)C=C2)C=C1O,Flavonoids,Flavones,Hispidulin,300.263,C16H12O6
+COC1=C(OC)C(O)=C2C(=O)C=C(OC2=C1)C1=CC=C(O)C=C1,Flavonoids,Flavones,Cirsimaritin,314.289,C17H14O6
+COC1=C(OC)C=C(C=C1)C1=CC(=O)C2=C(O1)C(OC)=C(OC)C(O)=C2O,Flavonoids,Flavones,"5,6-Dihydroxy-7,8,3',4'-tetramethoxyflavone",374.341,C19H18O8
+COC1=CC=C(C=C1)C1=CC(=O)C2=C(O1)C(OC)=C(OC)C(O)=C2O,Flavonoids,Flavones,Pebrellin,344.315,C18H16O7
+COC1=CC=C(C=C1)C1=CC(=O)C2=C(O)C(OC)=C(OC)C(OC)=C2O1,Flavonoids,Flavones,Gardenin B,358.342,C19H18O7
+COC1=C(O)C2=C(OC(=CC2=O)C2=CC(O)=C(O)C=C2)C=C1O,Flavonoids,Flavones,Nepetin,316.262,C16H12O7
+COC1=C(O)C=CC(=C1)C1=CC(=O)C2=C(O1)C=C(O)C(OC)=C2O,Flavonoids,Flavones,Jaceosidin,330.289,C17H14O7
+COC1=C(O)C=CC(=C1)C1=CC(=O)C2=C(O)C(OC)=C(OC)C=C2O1,Flavonoids,Flavones,Cirsilineol,344.315,C18H16O7
+COC1=C(O)C=C(C=C1)C1=CC(=O)C2=C(O)C(OC)=C(OC)C=C2O1,Flavonoids,Flavones,Eupatorin,344.315,C18H16O7
+OC1=CC2=C(C(O)=C1O)C(=O)C=C(O2)C1=CC(O)=C(O)C=C1,Flavonoids,Flavones,6-Hydroxyluteolin,302.236,C15H10O7
+CC1OC(OC2=CC3=C(C(=O)C=C(O3)C3=CC(O)=C(O)C=C3)C(O)=C2O)C(O)C(O)C1O,Flavonoids,Flavones,6-Hydroxyluteolin 7-O-rhamnoside,448.377,C21H20O11
+OC1=CC=C(C=C1)C1=CC(=O)C2=C(O1)C=C(O)C(O)=C2O,Flavonoids,Flavones,Scutellarein,286.236,C15H10O6
+[H][C@]1(COC(=O)CC(O)=O)O[C@@]([H])(OC[C@@]2([H])O[C@@]([H])(OC3=CC(O)=C4C(=O)C=C(OC4=C3)C3=CC=C(O)C=C3)[C@]([H])(O)[C@@]([H])(O)[C@]2([H])O)[C@]([H])(O)[C@]1([H])O,Flavonoids,Flavones,Apigenin 7-O-(6''-malonyl-apiosyl-glucoside),650.538,C29H30O17
+COC1=C(O)C=CC(=C1)C1=CC(=O)C2=C(O)C=C(O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O[C@@H]3OCC(O)(CO)[C@H]3O)C=C2O1,Flavonoids,Flavones,Chrysoeriol 7-O-apiosyl-glucoside,594.518,C27H30O15
+[H][C@@]1(O[C@]2([H])[C@@]([H])(O)[C@]([H])(O)[C@@]([H])(COC(=O)CC(O)=O)O[C@@]2([H])OC2=CC3=C(C(O)=C2)C(=O)C=C(O3)C2=CC=C(O)C(OC)=C2)OC[C@](O)(CO)[C@@]1([H])O,Flavonoids,Flavones,Chrysoeriol 7-O-(6''-malonyl-apiosyl-glucoside),680.564,C30H32O18
+COC1=C(O)C=CC(=C1)C1=CC(=O)C2=C(O)C=C(O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)C=C2O1,Flavonoids,Flavones,Chrysoeriol 7-O-glucoside,462.404,C22H22O11
+[H][C@]1(COC(=O)CC(O)=O)O[C@@]([H])(OC2=CC3=C(C(O)=C2)C(=O)C=C(O3)C2=CC=C(O)C(OC)=C2)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O,Flavonoids,Flavones,Chrysoeriol 7-O-(6''-malonyl-glucoside),548.45,C25H24O14
+O[C@@H]1[C@@H](O)[C@H](O[C@@H]2[C@@H](O)[C@H](O)[C@H](O[C@H]2OC2=CC(O)=C3C(=O)C=C(OC3=C2)C2=CC=C(O)C=C2)C(O)=O)O[C@@H]([C@H]1O)C(O)=O,Flavonoids,Flavones,Apigenin 7-O-diglucuronide,622.485,C27H26O17
+CC1OC(OC2C(O)C(O)C(CO)OC2OC2=CC3=C(C(O)=C2)C(=O)C=C(O3)C2=CC=C(OC3OC(CO)C(O)C(O)C3O)C=C2)C(O)C(O)C1O,Flavonoids,Flavones,Rhoifolin 4'-O-glucoside,740.659,C33H40O19
+OC1=CC=C(C=C1)C1=C(O)C(=O)C2=C(O)C=C(O)C=C2O1,Flavonoids,Flavonols,Kaempferol,286.236,C15H10O6
+OC1=CC(O)=C2C(OC(=C(O)C2=O)C2=CC(O)=C(O)C=C2)=C1,Flavonoids,Flavonols,Quercetin,302.236,C15H10O7
+OC[C@H]1O[C@@H](OC2=C(OC3=CC(O)=CC(O)=C3C2=O)C2=CC(O)=C(O)C=C2)[C@H](O)[C@@H](O)[C@H]1O,Flavonoids,Flavonols,Quercetin 3-O-galactoside,464.376,C21H20O12
+OC[C@H]1O[C@@H](OC2=C(OC3=CC(O)=CC(O)=C3C2=O)C2=CC(O)=C(O)C=C2)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Flavonols,Quercetin 3-O-glucoside,464.376,C21H20O12
+O[C@@H]1COC(OC2=C(OC3=CC(O)=CC(O)=C3C2=O)C2=CC(O)=C(O)C=C2)[C@H](O)[C@H]1O,Flavonoids,Flavonols,Quercetin 3-O-xyloside,434.35,C20H18O11
+C[C@@H]1O[C@@H](OC2=C(OC3=CC(O)=CC(O)=C3C2=O)C2=CC(O)=C(O)C=C2)[C@@H](O)[C@H](O)[C@@H]1O,Flavonoids,Flavonols,Quercetin 3-O-rhamnoside,448.377,C21H20O11
+C[C@@H]1O[C@@H](OC[C@H]2O[C@@H](OC3=C(OC4=CC(O)=CC(O)=C4C3=O)C3=CC(O)=C(O)C=C3)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@H](O)[C@H]1O,Flavonoids,Flavonols,Quercetin 3-O-rutinoside,610.518,C27H30O16
+OC[C@H]1O[C@@H](O[C@@H]2[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]2OC2=C(OC3=CC(O)=CC(O)=C3C2=O)C2=CC(O)=C(O)C=C2)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Flavonols,Quercetin 3-O-sophoroside,626.517,C27H30O17
+O[C@H]1CO[C@@H](OC2=C(OC3=CC(O)=CC(O)=C3C2=O)C2=CC(O)=C(O)C=C2)[C@H](O)[C@H]1O,Flavonoids,Flavonols,Quercetin 3-O-arabinoside,434.35,C20H18O11
+[H][C@]1(CO)O[C@@]([H])(OC(=O)[C@@]2([H])O[C@@]([H])(OC3=C(OC4=CC(O)=CC(O)=C4C3=O)C3=CC(O)=C(O)C=C3)[C@]([H])(O)[C@@]([H])(O)[C@]2([H])O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Flavonols,Quercetin 3-O-xylosyl-glucuronide,610.474,C26H26O17
+[H][C@@]1(C)O[C@@]([H])(OC2=CC(O)=C3C(=O)C(O[C@]4([H])O[C@]([H])(CO)[C@@]([H])(O)[C@]([H])(O)[C@@]4([H])O)=C(OC3=C2)C2=CC(OC)=C(O)C=C2)[C@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Flavonols,Isorhamnetin 3-O-glucoside 7-O-rhamnoside,624.544,C28H32O16
+COC1=C(O)C=CC(=C1)C1=C(O[C@@H]2O[C@@H](C(C)O)[C@@H](O)[C@H]2O)C(=O)C2=C(O)C=C(O)C=C2O1,Flavonoids,Flavonols,Isorhamnetin 3-O-rutinoside,462.404,C22H22O11
+OC1C(O)C(OC2=C(OC3=CC(O)=CC(O)=C3C2=O)C2=CC=C(O)C=C2)OC(C1O)C(O)=O,Flavonoids,Flavonols,Kaempferol 3-O-glucuronide,462.36,C21H18O12
+COC1=C(O)C=CC(=C1)C1=C(O)C(=O)C2=C(O)C=C(O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)C=C2O1,Flavonoids,Flavonols,Isorhamnetin 7-O-rhamnoside,478.403,C22H22O12
+OC[C@H]1O[C@@H](OC2=C(O)C=C(C=C2)C2=C(O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)C(=O)C3=C(O)C=C(O)C=C3O2)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Flavonols,"Quercetin 3,4'-O-diglucoside",626.517,C27H30O17
+CC1OC(OCC2OC(OC3=C(OC4=C(C(O)=CC(O)=C4)C3=O)C3=CC(O)=C(O)C(O)=C3)C(O)C(O)C2O)C(O)C(O)C1O,Flavonoids,Flavonols,Myricetin 3-O-rutinoside,626.517,C27H30O17
+OC1=CC(O)=C2C(OC(=C(O)C2=O)C2=CC(O)=C(O)C(O)=C2)=C1,Flavonoids,Flavonols,Myricetin,318.235,C15H10O8
+OC1=CC(O)=C(C=C1)C1=C(O)C(=O)C2=C(O)C=C(O)C=C2O1,Flavonoids,Flavonols,Morin,302.236,C15H10O7
+COC1=CC=C(C=C1)C1=C([O-])C(=O)C2=C(O)C=C(O)C=C2O1,Flavonoids,Flavonols,Kaempferide,299.255,C16H11O6
+OC[C@H]1O[C@@H](OC2=C(OC3=CC(O)=CC(O)=C3C2=O)C2=CC(O)=C(O)C(O)=C2)[C@H](O)[C@@H](O)[C@H]1O,Flavonoids,Flavonols,Myricetin 3-O-galactoside,480.376,C21H20O13
+OC[C@H]1O[C@@H](OC2=CC(=CC(O)=C2O)C2=C(O)C(=O)C3=C(O)C=C(O)C=C3O2)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Flavonols,Myricetin 3-O-glucoside,480.376,C21H20O13
+[H][C@]1(CO)O[C@@]([H])(OC[C@@]2([H])O[C@@]([H])(OC3=C(OC4=CC(O)=CC(O)=C4C3=O)C3=CC(O)=C(O)C=C3)[C@]([H])(O)[C@@]([H])(O)[C@]2([H])O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Flavonols,Quercetin 3-O-glucosyl-xyloside,596.491,C26H28O16
+[H][C@@]1(C)O[C@@]([H])(OC2=C(OC3=CC(O)=CC(O)=C3C2=O)C2=CC(O)=C(O)C=C2)[C@]([H])(OC(C)=O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Flavonols,Quercetin 3-O-acetyl-rhamnoside,490.414,C23H22O12
+OC[C@H]1OC(OC2=C(OC3=CC(O)=CC(O)=C3C2=O)C2=CC=C(O)C=C2)[C@H](O)[C@@H](O)[C@H]1O,Flavonoids,Flavonols,Kaempferol 3-O-galactoside,448.377,C21H20O11
+OC1=CC(O)=C2C(OC(=C(O)C2=O)C2=CC=CC=C2)=C1,Flavonoids,Flavonols,Galangin,270.237,C15H10O5
+COC1=C(O)C=CC(=C1)C1=C(O)C(=O)C2=C(O)C=C(O)C=C2O1,Flavonoids,Flavonols,Isorhamnetin,316.262,C16H12O7
+OC[C@H]1O[C@@H](OC2=C(OC3=CC(O)=CC(O)=C3C2=O)C2=CC=C(O)C=C2)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Flavonols,Kaempferol 3-O-glucoside,448.377,C21H20O11
+C[C@@H]1O[C@@H](O[C@@H]2[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]2OC2=CC(O)=C3C(=O)C(O)=C(OC3=C2)C2=CC=C(O)C=C2)[C@H](O)[C@H](O)[C@H]1O,Flavonoids,Flavonols,Kaempferol 3-O-rutinoside,594.518,C27H30O15
+[H][C@@]1(C)O[C@@]([H])(OC[C@@]2([H])O[C@@]([H])(OC3=C(OC4=CC(O)=CC(O)=C4C3=O)C3=CC=C(O)C=C3)[C@]([H])(O)[C@@]([H])(O)[C@@]2([H])O)[C@]([H])(O)[C@]([H])(O[C@]2([H])O[C@]([H])(CO)[C@@]([H])(O)[C@]([H])(O)[C@@]2([H])O)[C@@]1([H])O,Flavonoids,Flavonols,Kaempferol 3-O-glucosyl-rhamnosyl-galactoside,756.659,C33H40O20
+[H][C@@]1(C)O[C@@]([H])(OC[C@@]2([H])O[C@@]([H])(OC3=C(OC4=CC(O)=CC(O)=C4C3=O)C3=CC=C(O)C=C3)[C@]([H])(O)[C@@]([H])(O)[C@]2([H])O)[C@]([H])(O)[C@]([H])(O[C@]2([H])O[C@]([H])(CO)[C@@]([H])(O)[C@]([H])(O)[C@@]2([H])O)[C@@]1([H])O,Flavonoids,Flavonols,Kaempferol 3-O-glucosyl-rhamnosyl-glucoside,756.659,C33H40O20
+C[C@@H]1O[C@@H](OC[C@H]2O[C@@H](OC3=C(OC4=CC(O)=CC(O)=C4C3=O)C3=CC(O)=C(O)C=C3)[C@H](O)[C@@H](O)[C@H]2O)[C@H](O)[C@H](O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@H]1O,Flavonoids,Flavonols,Quercetin 3-O-glucosyl-rhamnosyl-galactoside,772.658,C33H40O21
+[H][C@@]1(C)O[C@@]([H])(OC[C@@]2([H])O[C@@]([H])(OC3=C(OC4=CC(O)=CC(O)=C4C3=O)C3=CC(O)=C(O)C=C3)[C@]([H])(O)[C@@]([H])(O)[C@]2([H])O)[C@]([H])(O)[C@]([H])(O[C@]2([H])O[C@]([H])(CO)[C@@]([H])(O)[C@]([H])(O)[C@@]2([H])O)[C@@]1([H])O,Flavonoids,Flavonols,Quercetin 3-O-glucosyl-rhamnosyl-glucoside,772.658,C33H40O21
+COC1=CC(O)=C2C(=O)C(O)=C(OC2=C1)C1=CC(O)=C(O)C=C1,Flavonoids,Flavonols,Rhamnetin,316.262,C16H12O7
+COC1=C(O)C=CC(=C1)C1=C(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)C(=O)C2=C(O)C=C(O)C=C2O1,Flavonoids,Flavonols,Isorhamnetin 3-O-glucoside,478.403,C22H22O12
+C[C@@H]1O[C@@H](OC2=C(OC3=CC(O)=CC(O)=C3C2=O)C2=CC(O)=C(O)C(O)=C2)[C@H](O)[C@H](O)[C@H]1O,Flavonoids,Flavonols,Myricetin 3-O-rhamnoside,464.376,C21H20O12
+C[C@@H]1O[C@@H](O[C@@H]2[C@@H](O)[C@@H](O)[C@@H](CO)O[C@H]2OC2=C(OC3=CC(O)=CC(O)=C3C2=O)C2=CC(O)=C(O)C=C2)[C@H](O)[C@H](O)[C@H]1O,Flavonoids,Flavonols,Quercetin 3-O-rhamnosyl-galactoside,610.518,C27H30O16
+OC1C(O)C(OC2=C(OC3=CC(O)=CC(O)=C3C2=O)C2=CC=C(O)C(O)=C2)OC(C1O)C(O)=O,Flavonoids,Flavonols,Quercetin 3-O-glucuronide,478.36,C21H18O13
+[H][C@@]1(OC2=C(OC3=CC(O)=CC(O)=C3C2=O)C2=CC(OC)=C(O)C=C2)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Flavonols,Isorhamnetin 3-O-glucuronide,492.386,C22H20O13
+OCC1OC(OC2=C(OC3=C(C(O)=CC(O)=C3)C2=O)C2=CC(O)=C(O)C(O)=C2)C(O)C1O,Flavonoids,Flavonols,Myricetin 3-O-arabinoside,450.35,C20H18O12
+OC[C@H]1O[C@@H](OC2=CC(O)=C3C(=O)C(O)=C(OC3=C2)C2=CC(O)=C(O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)C=C2)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Flavonols,"Quercetin 7,4'-O-diglucoside",626.517,C27H30O17
+OC[C@H]1O[C@@H](OC2=C(O)C=C(C=C2)C2=C(O)C(=O)C3=C(O)C=C(O)C=C3O2)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Flavonols,Quercetin 4'-O-glucoside,464.376,C21H20O12
+COC1=CC(=CC=C1OC1OC(CO)C(O)C(O)C1O)C1=C(O)C(=O)C2=C(O)C=C(O)C=C2O1,Flavonoids,Flavonols,Isorhamnetin 4'-O-glucoside,478.403,C22H22O12
+COC1=CC(O)=C2C(=O)C(OC)=C(OC2=C1)C1=CC(O)=C(O)C=C1,Flavonoids,Flavonols,"3,7-Dimethylquercetin",330.289,C17H14O7
+OC[C@H]1O[C@@H](O[C@@H]2[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]2OC2=C(OC3=CC(O)=CC(O)=C3C2=O)C2=CC=C(O)C=C2)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Flavonols,Kaempferol 3-O-sophoroside,610.518,C27H30O16
+OC[C@H]1O[C@@H](OC2=CC(O)=C3C(=O)C(O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)=C(OC3=C2)C2=CC=C(O)C=C2)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Flavonols,"Kaempferol 3,7-O-diglucoside",610.518,C27H30O16
+OCC1OC(OC2C(O)C(O)C(CO)OC2OC2=C(OC3=CC(OC4OC(CO)C(O)C(O)C4O)=CC(O)=C3C2=O)C2=CC=C(O)C=C2)C(O)C(O)C1O,Flavonoids,Flavonols,Kaempferol 3-O-sophoroside 7-O-glucoside,772.658,C33H40O21
+OC1C(O)C(COC(=O)CC(O)=O)OC(OC2=C(OC3=C(C(O)=CC(O)=C3)C2=O)C2=CC(O)=C(O)C=C2)C1O,Flavonoids,Flavonols,"Quercetin 3-O-(6""-malonyl-glucoside)",550.422,C24H22O15
+[H][C@]1(COC(=O)CC(O)=O)O[C@@]([H])(OC2=C(OC3=CC(O)=CC(O)=C3C2=O)C2=CC=C(O)C=C2)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O,Flavonoids,Flavonols,"Kaempferol 3-O-(6""-malonyl-glucoside)",534.423,C24H22O14
+C[C@@H]1O[C@H](OC2=C(OC3=CC(O)=CC([O-])=C3C2=O)C2=CC=C(O)C=C2)[C@H](O)[C@H](O)[C@H]1O,Flavonoids,Flavonols,Kaempferol 3-O-rhamnoside,431.37,C21H19O10
+OCC1OC(OC2=CC3=C(C(O)=C2)C(=O)C(OC2OC(COC(=O)CC(O)=O)C(O)C(O)C2O)=C(O3)C2=CC(O)=C(O)C=C2)C(O)C(O)C1O,Flavonoids,Flavonols,"Quercetin 3-O-(6""-malonyl-glucoside) 7-O-glucoside",712.563,C30H32O20
+COC1=C(O)C2=C(OC(=C(OC3OC(COC4OC(CO)C(O)C(O)C4O)C(O)C(O)C3OC3OCC(O)(CO)C3O)C2=O)C2=CC=C(O)C(O)=C2)C=C1O,Flavonoids,Flavonols,Patuletin 3-O-glucosyl-(1->6)-[apiosyl(1->2)]-glucoside,788.657,C33H40O22
+COC1=CC(=CC=C1O)C1=C(OC2OC(COC3OC(CO)C(O)C(O)C3O)C(O)C(O)C2OC2OCC(O)(CO)C2O)C(=O)C2=C(O1)C=C(O)C(OC)=C2O,Flavonoids,Flavonols,Spinacetin 3-O-glucosyl-(1->6)-[apiosyl(1->2)]-glucoside,802.684,C34H42O22
+[H][C@@]1(O[C@]2([H])[C@@]([H])(O)[C@]([H])(O)[C@@]([H])(CO[C@]3([H])O[C@]([H])(CO)[C@@]([H])(O)[C@]([H])(O)[C@@]3([H])OC(=O)\C=C\C3=CC(OC)=C(O)C=C3)O[C@@]2([H])OC2=C(OC3=C(C(O)=C(OC)C(O)=C3)C2=O)C2=CC=C(O)C(O)=C2)OC[C@](O)(CO)[C@@]1([H])O,Flavonoids,Flavonols,Patuletin 3-O-(2''-feruloylglucosyl)(1->6)-[apiosyl(1->2)]-glucoside,964.826,C43H48O25
+[H][C@@]1(O[C@@]2([H])[C@]([H])(OC3=C(OC4=CC(O)=C(OC)C(O)=C4C3=O)C3=CC=C(O)C(OC)=C3)OC(CO[C@]3([H])O[C@@]([H])(CO)[C@@]([H])(O)[C@]([H])(O)[C@@]3([H])OC(=O)\C=C\C3=CC=C(O)C=C3)[C@@]([H])(O)[C@]2([H])O)OC[C@](O)(CO)[C@@]1([H])O,Flavonoids,Flavonols,"Spinacetin 3-O-(2""-p-coumaroylglucosyl)(1->6)-[apiosyl(1->2)]-glucoside",948.827,C43H48O24
+[H][C@@]1(O[C@@]2([H])[C@]([H])(OC3=C(OC4=CC(O)=C(OC)C(O)=C4C3=O)C3=CC=C(O)C(OC)=C3)OC(CO[C@]3([H])O[C@@]([H])(CO)[C@@]([H])(O)[C@]([H])(O)[C@@]3([H])OC(=O)\C=C\C3=CC(OC)=C(O)C=C3)[C@@]([H])(O)[C@]2([H])O)OC[C@](O)(CO)[C@@]1([H])O,Flavonoids,Flavonols,"Spinacetin 3-O-(2""-feruloylglucosyl)(1->6)-[apiosyl(1->2)]-glucoside",978.853,C44H50O25
+COC1=CC(=CC=C1O)C1=C(OC2OC(COC3OC(CO)C(O)C(O)C3O)C(O)C(O)C2O)C(=O)C2=C(O1)C=C(O)C(OC)=C2O,Flavonoids,Flavonols,Spinacetin 3-O-glucosyl-(1->6)-glucoside,670.57,C29H34O18
+[H][C@@]1(OC2=CC=C(C=C2OC)C2=C(OC)C(=O)C3=C(O2)C=C(O)C(OC)=C3O)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Flavonols,Jaceidin 4'-O-glucuronide,536.439,C24H24O14
+[H][C@@]1(OC2=CC=C(C=C2O)C2=C(OC)C(=O)C3=C(O)C4=C(OCO4)C=C3O2)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Flavonols,"5,3',4'-Trihydroxy-3-methoxy-6:7-methylenedioxyflavone 4'-O-glucuronide",520.396,C23H20O14
+[H][C@@]1(OC2=CC=C(C=C2OC)C2=C(OC)C(=O)C3=C(O)C4=C(OCO4)C=C3O2)O[C@]([H])(C(O)=O)[C@@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Flavonols,"5,4'-Dihydroxy-3,3'-dimethoxy-6:7-methylenedioxyflavone 4'-O-glucuronide",534.423,C24H22O14
+[H][C@]1(CO)O[C@@]([H])(OC[C@@]2([H])O[C@@]([H])(OC3=C(OC4=CC(O)=CC(O)=C4C3=O)C3=CC=C(O)C=C3)[C@]([H])(O)[C@@]([H])(O)[C@]2([H])O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Flavonols,Kaempferol 3-O-xylosyl-glucoside,580.492,C26H28O15
+[H][C@]1(COC(C)=O)O[C@@]([H])(OC2=C(OC3=CC(O)=CC(O)=C3C2=O)C2=CC=C(O)C=C2)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O,Flavonoids,Flavonols,Kaempferol 3-O-acetyl-glucoside,490.414,C23H22O12
+C[C@@H]1O[C@@H](OC[C@H]2O[C@@H](OC3=C(OC4=CC(O)=CC(O)=C4C3=O)C3=CC(O)=C(O)C=C3)[C@H](O[C@@H]3OC[C@@H](O)[C@H](O)[C@H]3O)[C@@H](O)[C@@H]2O)[C@H](O)[C@H](O)[C@H]1O,Flavonoids,Flavonols,Quercetin 3-O-xylosyl-rutinoside,742.632,C32H38O20
+[H][C@@]1(C)O[C@@]([H])(O[C@]2([H])[C@@]([H])(O)[C@]([H])(C)O[C@@]([H])(OC[C@@]3([H])O[C@@]([H])(OC4=C(OC5=CC(O)=CC(O)=C5C4=O)C4=CC=C(O)C=C4)[C@]([H])(O)[C@@]([H])(O)[C@]3([H])O)[C@]2([H])O)[C@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Flavonols,Kaempferol 3-O-xylosyl-rutinoside,740.659,C33H40O19
+OC[C@H]1OC(OC2=CC(O)=C3C(=O)C([O-])=C(OC3=C2)C2=CC=C(O)C=C2)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Flavonols,Kaempferol 7-O-glucoside,447.369,C21H19O11
+CC1OC(OC2=CC(O)=C3C(=O)C(OC4OC(CO)C(O)C(O)C4O)=C(OC3=C2)C2=CC=C(O)C=C2)C(O)C(O)C1O,Flavonoids,Flavonols,Kaempferol 3-O-galactoside 7-O-rhamnoside,594.518,C27H30O15
+[H][C@@]1(C)O[C@@]([H])(OC2=CC(O)=C3C(=O)C(O[C@]4([H])O[C@]([H])(COC(C)=O)[C@]([H])(O)[C@]([H])(O)[C@@]4([H])O)=C(OC3=C2)C2=CC=C(O)C=C2)[C@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Flavonols,Kaempferol 3-O-(6''-acetyl-galactoside) 7-O-rhamnoside,636.555,C29H32O16
+C[C@@H]1O[C@@H](OC2=CC(O)=C3C(=O)C(O[C@@H]4O[C@H](CO)[C@H](O)[C@H](O)[C@H]4O)=C(OC3=C2)C2=CC(O)=C(O)C=C2)[C@H](O)[C@H](O)[C@H]1O,Flavonoids,Flavonols,Quercetin 3-O-galactoside 7-O-rhamnoside,610.518,C27H30O16
+CC1OC(OC2=CC3=C(C(O)=C2)C(=O)C(OC2OC(COC(C)=O)C(O)C(O)C2O)=C(O3)C2=CC=C(O)C(O)=C2)C(O)C(O)C1O,Flavonoids,Flavonols,Quercetin 3-O-(6''-acetyl-galactoside) 7-O-rhamnoside,652.554,C29H32O17
+[H][C@@]1(C)O[C@@]([H])(OC2=CC(O)=C3C(=O)C(O[C@]4([H])O[C@]([H])(CO)[C@]([H])(O)[C@]([H])(O)[C@@]4([H])O[C@]4([H])O[C@@]([H])(C)[C@]([H])(O)[C@@]([H])(O)[C@@]4([H])O)=C(OC3=C2)C2=CC=C(O)C=C2)[C@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Flavonols,Kaempferol 3-O-(2''-rhamnosyl-galactoside) 7-O-rhamnoside,740.659,C33H40O19
+[H][C@@]1(C)O[C@@]([H])(OC2=CC(O)=C3C(=O)C(O[C@]4([H])O[C@]([H])(COC(O)=O)[C@]([H])(O)[C@]([H])(O)[C@@]4([H])O[C@]4([H])O[C@@]([H])(C)[C@]([H])(O)[C@@]([H])(O)[C@@]4([H])O)=C(OC3=C2)C2=CC=C(O)C=C2)[C@]([H])(O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Flavonols,Kaempferol 3-O-(2''-rhamnosyl-6''-acetyl-galactoside) 7-O-rhamnoside,784.669,C34H40O21
+OC1=CC=C(C=C1)C1=C(O)C(=O)C2=C(O1)C(O)=C(O)C(O)=C2O,Flavonoids,Flavonols,"6,8-Dihydroxykaempferol",318.235,C15H10O8
+[H][C@]1(CO)O[C@@]([H])(OC2=C(OC3=CC(O)=CC(O)=C3C2=O)C2=CC(OC)=C(O)C=C2)[C@]([H])(O)[C@@]([H])(O)[C@@]1([H])O,Flavonoids,Flavonols,Isorhamnetin 3-O-galactoside,478.403,C22H22O12
+C[C@@H]1O[C@@H](O[C@H]2[C@H](C)O[C@@H](OC[C@H]3O[C@@H](OC4=C(OC5=CC(O)=CC(O)=C5C4=O)C4=CC(O)=C(O)C=C4)[C@H](O)[C@@H](O)[C@H]3O)[C@H](O)[C@@H]2O)[C@H](O)[C@H](O)[C@H]1O,Flavonoids,Flavonols,Quercetin 3-O-rhamnosyl-rhamnosyl-glucoside,756.659,C33H40O20
+[H][C@@]1(C)O[C@@]([H])(OC[C@@]2([H])O[C@@]([H])(OC3=C(OC4=CC(O)=CC(O)=C4C3=O)C3=CC=C(O)C=C3)[C@]([H])(O)[C@@]([H])(O)[C@]2([H])O)[C@]([H])(O[C@]2([H])O[C@@]([H])(C)[C@]([H])(O)[C@@]([H])(O)[C@@]2([H])O)[C@]([H])(O)[C@@]1([H])O,Flavonoids,Flavonols,Kaempferol 3-O-rhamnosyl-rhamnosyl-glucoside,740.659,C33H40O19
+COC1=C(OC2=CC(O)=CC(O)=C2C1=O)C1=CC=CC=C1,Flavonoids,Flavonols,Methylgalangin,284.263,C16H12O5
+[H][C@]1(CO)O[C@@]([H])(OC2=CC=C(C=C2)C2=C(O[C@]3([H])O[C@]([H])(CO)[C@@]([H])(O)[C@]([H])(O)[C@@]3([H])O)C(=O)C3=C(O)C=C(O[C@]4([H])O[C@]([H])(CO)[C@@]([H])(O)[C@]([H])(O)[C@@]4([H])O)C=C3O2)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O,Flavonoids,Flavonols,"Kaempferol 3,7,4'-O-triglucoside",772.658,C33H40O21
+COC1=C(OC)C=C(C=C1)C1=C(OC)C(=O)C2=C(O1)C(OC)=C(OC)C(OC)=C2OC,Flavonoids,Flavonols,3-Methoxynobiletin,432.421,C22H24O9
+COC1=C(OC)C=C(C=C1)C1=C(OC)C(=O)C2=C(OC)C(OC)=C(OC)C=C2O1,Flavonoids,Flavonols,3-Methoxysinensetin,402.395,C21H22O8
+OC1=CC=C(C=C1)C1=COC2=C(C=CC(O)=C2)C1=O,Flavonoids,Isoflavonoids,Daidzein,254.238,C15H10O4
+COC1=CC=C(C=C1)C1=COC2=C(C=CC(O)=C2)C1=O,Flavonoids,Isoflavonoids,Formononetin,268.264,C16H12O4
+OC1=CC=C(C=C1)C1=COC2=CC(O)=CC(O)=C2C1=O,Flavonoids,Isoflavonoids,Genistein,270.237,C15H10O5
+COC1=CC=C(C=C1)C1=COC2=CC(O)=CC(O)=C2C1=O,Flavonoids,Isoflavonoids,Biochanin A,284.263,C16H12O5
+COC1=C(O)C=C2OC=C(C(=O)C2=C1)C1=CC=C(O)C=C1,Flavonoids,Isoflavonoids,Glycitein,284.263,C16H12O5
+COC1=C(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)C=C2OC=C(C(=O)C2=C1)C1=CC=C(O)C=C1,Flavonoids,Isoflavonoids,Glycitin,446.404,C22H22O10
+CC(=O)OC[C@H]1O[C@@H](OC2=CC3=C(C=C2)C(=O)C(=CO3)C2=CC=C(O)C=C2)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Isoflavonoids,6''-O-Acetyldaidzin,458.415,C23H22O10
+O[C@H]1[C@H](O)[C@@H](COC(=O)CC(O)=O)O[C@@H](OC2=CC(O)=C3C(OC=C(C3=O)C3=CC=C(O)C=C3)=C2)[C@@H]1O,Flavonoids,Isoflavonoids,6''-O-Malonylgenistin,518.424,C24H22O13
+OC[C@H]1O[C@@H](OC2=CC3=C(C=C2)C(=O)C(=CO3)C2=CC=C(O)C=C2)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Isoflavonoids,Daidzin,416.378,C21H20O9
+OC[C@H]1O[C@@H](OC2=CC(O)=C3C(=O)C(=COC3=C2)C2=CC=C(O)C=C2)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Isoflavonoids,Genistin,432.378,C21H20O10
+CC(=O)OC[C@H]1O[C@@H](OC2=CC(O)=C3C(OC=C(C3=O)C3=CC=C(O)C=C3)=C2)[C@H](O)[C@@H](O)[C@@H]1O,Flavonoids,Isoflavonoids,6''-O-Acetylgenistin,474.414,C23H22O11
+COC1=CC2=C(OC=C(C2=O)C2=CC=C(O)C=C2)C=C1O[C@@H]1O[C@H](COC(C)=O)[C@@H](O)[C@H](O)[C@H]1O,Flavonoids,Isoflavonoids,6''-O-Acetylglycitin,488.441,C24H24O11
+O[C@H]1[C@H](O)[C@@H](COC(=O)CC(O)=O)O[C@@H](OC2=CC3=C(C=C2)C(=O)C(=CO3)C2=CC=C(O)C=C2)[C@@H]1O,Flavonoids,Isoflavonoids,6''-O-Malonyldaidzin,502.424,C24H22O12
+COC1=C(O[C@@H]2O[C@H](COC(=O)CC(O)=O)[C@@H](O)[C@H](O)[C@H]2O)C=C2OC=C(C(=O)C2=C1)C1=CC=C(O)C=C1,Flavonoids,Isoflavonoids,6''-O-Malonylglycitin,532.45,C25H24O13

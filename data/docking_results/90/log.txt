@@ -1,0 +1,25 @@
+[PARAM] 2021-Jun-08 13:48:20 LIGNAD: 90.pdbqt
+[PARAM] 2021-Jun-08 13:48:20 RECEPTOR: 7bqy_final.pdbqt
+[PARAM] 2021-Jun-08 13:48:20 OUTPUT: results.pdbqt
+[PARAM] 2021-Jun-08 13:48:20 LOG: log.txt
+[REMARK] AutoDock Vina 1.1.2 - Edited by Kangkon Saikia
+
+[WARNING] 2021-Jun-08 13:48:20 The search space volume > 27000 Angstrom^3 (See FAQ)
+[INFO] 2021-Jun-08 13:48:20 Detected 12 CPUs
+[WARNING] 2021-Jun-08 13:48:20 at low exhaustiveness, it may be impossible to utilize all CPUs
+[TASK] 2021-Jun-08 13:48:20 Reading input ... [DONE] 2021-Jun-08 13:48:20 [ENDTASK]
+[TASK] 2021-Jun-08 13:48:20 Setting up the scoring function ... [DONE] 2021-Jun-08 13:48:20 [ENDTASK]
+[TASK] 2021-Jun-08 13:48:20 Analyzing the binding site ... [DONE] 2021-Jun-08 13:48:21 [ENDTASK]
+[INFO] 2021-Jun-08 13:48:21 Using random seed: -847985308
+[TASK] 2021-Jun-08 13:48:21 Performing search ... [DONE] 2021-Jun-08 13:49:47 [ENDTASK]
+[TASK] 2021-Jun-08 13:49:47 Refining results ... [DONE] 2021-Jun-08 13:49:47 [ENDTASK]
+[RESULT]
+[REMARK] Method: default
+[REMARK] Result Table - mode, affinity (kcal/mol) and RMSD (Lower bound and upper bound) of distance from best mode
+mode | affinity | rmsd_lb | rmsd_ub
+-----|----------|---------|--------
+   1 |     -9.9 |    0.000 |     0.000
+   2 |     -9.5 |    1.967 |     3.410
+   3 |     -9.3 |    1.366 |     2.278
+[ENDRESULT]
+[TASK] 2021-Jun-08 13:49:47 Writing output ... [DONE] 2021-Jun-08 13:49:47 [ENDTASK]
